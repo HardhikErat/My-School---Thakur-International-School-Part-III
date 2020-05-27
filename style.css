@@ -1,0 +1,30 @@
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+
+.img-container {
+text-align: center;
+}
+h1{
+    color: blue;
+}
+
+*{
+    border: solid
+}
+
+.data2 {
+    background-color: cadetblue;
+}
+
+body{
+    background-color: #808080;
+}
+
+.menu{
+    margin-right: 30px;
+}
+
+.menu a{
+    margin-right: 20px;
+}
